@@ -7,4 +7,4 @@
 
 > [709. To Lower Case](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/709.%20To%20Lower%20Case.md) ASCII 码
 
-> 595. Big Countries 基础SQL
+>  595. Big Countries 基础SQL
