@@ -12,3 +12,5 @@
 >  804. Unique Morse Code Words (HashMap)
 
 >  905. Sort Array By Parity (Two points, start, end)
+
+>  944. Delete Columns to Make Sorted (Visit array column by column)
