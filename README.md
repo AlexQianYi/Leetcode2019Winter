@@ -1,2 +1,2 @@
 # Leetcode2019Winter
->  [Lab: DevOps Docker Beginners Guide Note](https://github.com/AlexQianYi/dist-sys-practice/blob/master/FirstAlpineLinuxContainers.pdf) 
+>  [771. Jewels and Stones](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/771.%20Jewels%20and%20Stones.md) 
