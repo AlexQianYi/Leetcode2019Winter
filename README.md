@@ -16,3 +16,5 @@
 >  944. Delete Columns to Make Sorted (Visit array column by column)
 
 > [657. Robot Return to Origin](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/657.%20Robot%20Return%20to%20Origin.md) 
+
+> [832. Flipping an Image](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/832.%20Flipping%20an%20Image.md) 从两头访问每一行
