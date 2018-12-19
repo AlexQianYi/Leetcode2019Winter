@@ -18,3 +18,5 @@
 > [657. Robot Return to Origin](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/657.%20Robot%20Return%20to%20Origin.md) 
 
 > [832. Flipping an Image](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/832.%20Flipping%20an%20Image.md) 从两头访问每一行
+
+>  461. Hamming Distance (x^y, 1, 10, 1000... 与运算)
