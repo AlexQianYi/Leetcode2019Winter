@@ -24,3 +24,5 @@
 > [942. DI String Match](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/942.%20DI%20String%20Match.md) I就放当前上限，D就放当前下限
 
 >  [617. Merge Two Binary Trees](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/617.%20Merge%20Two%20Binary%20Trees.md) 递归树遍历
+> 
+>  [852. Peak Index in a Mountain Array](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/617.%20Merge%20Two%20Binary%20Trees.md) 递归树遍历
