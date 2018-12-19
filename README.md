@@ -20,3 +20,5 @@
 > [832. Flipping an Image](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/832.%20Flipping%20an%20Image.md) 从两头访问每一行
 
 >  461. Hamming Distance (x^y, 1, 10, 1000... 与运算)
+
+> [942. DI String Match](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/942.%20DI%20String%20Match.md) I就放当前上限，D就放当前下限
