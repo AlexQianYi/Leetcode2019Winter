@@ -28,3 +28,5 @@
 >  [852. Peak Index in a Mountain Array](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) 二分
 
 >  728. Self Dividing Numbers (mod 运算)
+
+>  561. Array Partition (sort之后隔一个加一个)
