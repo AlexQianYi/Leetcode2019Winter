@@ -38,3 +38,5 @@
 > 922. Sort Array By Parity II (两个指针没啥好说的)
 
 > 584. Find Customer Referee (简单的SQL，注意is null也满足)
+
+>  [590. N-ary Tree Postorder Traversal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/590.%20N-ary%20Tree%20Postorder%20Traversal.md) 树的后序遍历，左右根
