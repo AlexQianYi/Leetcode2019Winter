@@ -44,3 +44,5 @@
 >  [589. N-ary Tree Pretorder Traversal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/589.%20N-ary%20Tree%20Preorder%20Traversal.md) 树的先序遍历，根左右
 
 >  [883. Projection Area of 3D Shapes](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/883.%20Projection%20Area%20of%203D%20Shapes.md) 3 视图
+
+> 700.  Search in a Binary Search Tree (基本的二叉树查找)
