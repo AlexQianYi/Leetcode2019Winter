@@ -54,3 +54,5 @@
 > 586.  Customer Placing the Largest Number of Orders (SQL group by)
 > 
 > 867.  Transpose Matrix (矩阵的转秩)
+> 
+> 359.  Logger Rate Limiter (HashMap没啥好说的)
