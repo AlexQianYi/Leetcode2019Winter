@@ -50,3 +50,5 @@
 >  [346. Moving Average from Data Stream](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/346.%20Moving%20Average%20from%20Data%20Stream.md) 维护数组中size大小的sum
 > 
 > 908.  Smallest Range I (本质就是max-k和min+k能不能相交)
+> 
+> 586.  Customer Placing the Largest Number of Orders (SQL group by)
