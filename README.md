@@ -52,3 +52,5 @@
 > 908.  Smallest Range I (本质就是max-k和min+k能不能相交)
 > 
 > 586.  Customer Placing the Largest Number of Orders (SQL group by)
+> 
+> 867.  Transpose Matrix (矩阵的转秩)
