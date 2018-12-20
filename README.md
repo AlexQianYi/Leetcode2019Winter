@@ -30,3 +30,5 @@
 >  728. Self Dividing Numbers (mod 运算)
 
 >  561. Array Partition (sort之后隔一个加一个)
+
+>  [339. Nested List Weight Sum](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/339.%20Nested%20List%20Weight%20Sum.md) 类似树的访问
