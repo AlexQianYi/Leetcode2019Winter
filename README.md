@@ -40,5 +40,7 @@
 > 584. Find Customer Referee (简单的SQL，注意is null也满足)
 
 >  [590. N-ary Tree Postorder Traversal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/590.%20N-ary%20Tree%20Postorder%20Traversal.md) 树的后序遍历，左右根
-> 
+
 >  [589. N-ary Tree Pretorder Traversal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/589.%20N-ary%20Tree%20Preorder%20Traversal.md) 树的先序遍历，根左右
+
+>  [883. Projection Area of 3D Shapes](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/883.%20Projection%20Area%20of%203D%20Shapes.md) 3 视图
