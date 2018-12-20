@@ -46,3 +46,7 @@
 >  [883. Projection Area of 3D Shapes](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/883.%20Projection%20Area%20of%203D%20Shapes.md) 3 视图
 
 > 700.  Search in a Binary Search Tree (基本的二叉树查找)
+
+>  [346. Moving Average from Data Stream](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/346.%20Moving%20Average%20from%20Data%20Stream.md) 维护数组中size大小的sum
+> 
+> 
