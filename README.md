@@ -56,3 +56,5 @@
 > 867.  Transpose Matrix (矩阵的转秩)
 > 
 > 359.  Logger Rate Limiter (HashMap没啥好说的)
+> 
+> [559. Maximum Depth of N-ary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md) DFS
