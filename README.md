@@ -34,5 +34,7 @@
 >  [339. Nested List Weight Sum](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/339.%20Nested%20List%20Weight%20Sum.md) 类似树的访问
 
 >  [933. Number of Recent Calls](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/933.%20Number%20of%20Recent%20Calls.md) TreeMap! tailMap()
-> 
+
 > 922. Sort Array By Parity II (两个指针没啥好说的)
+
+> 584. Find Customer Referee (简单的SQL，注意is null也满足)
