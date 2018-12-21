@@ -61,4 +61,4 @@
 > 
 > [876. Middle of the Linked List](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/876.%20Middle%20of%20the%20Linked%20List.md) 两个指针，快的走两步，慢的走一步。
 > 
-> [811. Subdomain Visit Count](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/876.%20Middle%20of%20the%20Linked%20List.md) 两个指针，快的走两步，慢的走一步。
+> [811. Subdomain Visit Count](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/811.Subdomain%20Visit%20Count.md) 先split再组合，存hashmap。注意hashmap遍历。
