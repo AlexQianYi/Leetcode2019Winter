@@ -66,3 +66,5 @@
 > [557.  Reverse Words in a String III (单独翻转一句话中的每个词)]
 > 
 > [344.  Reverse String (使用 new StringBuilder(s).reverse().toString())]
+> 
+>  [806. Number of Lines To Write String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/806.%20Number%20of%20Lines%20To%20Write%20String.md) 一行一行统计。
