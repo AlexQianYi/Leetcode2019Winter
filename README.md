@@ -68,3 +68,5 @@
 > [344.  Reverse String (使用 new StringBuilder(s).reverse().toString())]
 > 
 >  [806. Number of Lines To Write String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/806.%20Number%20of%20Lines%20To%20Write%20String.md) 一行一行统计。
+> 
+> [821. Shortest Distance to a Character](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/821.%20Shortest%20Distance%20to%20a%20Character.md) 从左向右遍历一遍，再从右向左遍历一遍
