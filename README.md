@@ -64,3 +64,5 @@
 > [811. Subdomain Visit Count](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/811.Subdomain%20Visit%20Count.md) 先split再组合，存hashmap。注意hashmap遍历。
 > 
 > 557.  Reverse Words in a String III (单独翻转一句话中的每个词)
+> 
+> 344.  Reverse String (使用 new StringBuilder(s).reverse().toString())
