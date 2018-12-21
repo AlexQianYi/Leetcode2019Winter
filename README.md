@@ -72,3 +72,5 @@
 > [821. Shortest Distance to a Character](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/821.%20Shortest%20Distance%20to%20a%20Character.md) 从左向右遍历一遍，再从右向左遍历一遍
 > 
 > [476. Number Complement](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/476.%20Number%20Complement.md) Integer.numberOfLeadingZeros(n)
+> 
+> [872. Leaf-Similar Trees (生成leaf的序列，然后比较)]
