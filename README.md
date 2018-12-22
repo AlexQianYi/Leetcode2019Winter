@@ -77,4 +77,4 @@
 > 
 > [500. Keyboard Row (HashMap)]
 > 
-> [893. Groups of Special-Equivalent Strings](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/476.%20Number%20Complement.md) 奇偶分别排序再组合
+> [893. Groups of Special-Equivalent Strings](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/893.%20Groups%20of%20Special-Equivalent%20Strings.md) 奇偶分别排序再组合
