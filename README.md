@@ -74,3 +74,5 @@
 > [476. Number Complement](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/476.%20Number%20Complement.md) Integer.numberOfLeadingZeros(n)
 > 
 > [872. Leaf-Similar Trees (生成leaf的序列，然后比较)]
+> 
+> [500. Keyboard Row (HashMap)]
