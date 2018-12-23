@@ -82,3 +82,5 @@
 > [766. Toeplitz Matrix](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/766.%20Toeplitz%20Matrix.md) 在一条斜线上的元素都相等
 > 
 > [620. Not Boring Movies (SQL order by)]
+> 
+> [884. Uncommon Words from Two Sentences (HashMap)]
