@@ -80,3 +80,5 @@
 > [893. Groups of Special-Equivalent Strings](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/893.%20Groups%20of%20Special-Equivalent%20Strings.md) 奇偶分别排序再组合
 > 
 > [766. Toeplitz Matrix](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/766.%20Toeplitz%20Matrix.md) 在一条斜线上的元素都相等
+> 
+> [620. Not Boring Movies (SQL order by)]
