@@ -88,3 +88,5 @@
 > [897. Increasing Order Search Tree (本质上是树的中序遍历)]
 > 
 > [682. Baseball Game](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/682.%20Baseball%20Game.md) 栈
+> 
+> [669. Trim a Binary Search Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/669.%20Trim%20a%20Binary%20Search%20Tree.md) 
