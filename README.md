@@ -94,3 +94,5 @@
 > [266. Palindrome Permutation (最多只能有一个单数的字符)]
 > 
 > [868. Binary Gap (移位操作)]
+> 
+>  [575. Distribute Candias](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/575.%20Distribute%20Candies.md) 其实很简单
