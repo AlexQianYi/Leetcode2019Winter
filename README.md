@@ -92,3 +92,5 @@
 > [669. Trim a Binary Search Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/669.%20Trim%20a%20Binary%20Search%20Tree.md) 
 > 
 > [266. Palindrome Permutation (最多只能有一个单数的字符)]
+> 
+> [868. Binary Gap (移位操作)]
