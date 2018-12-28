@@ -96,3 +96,5 @@
 > [868. Binary Gap (移位操作)]
 > 
 >  [575. Distribute Candias](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/575.%20Distribute%20Candies.md) 其实很简单
+> 
+> [412. Fizz Buz (没啥好说的)]
