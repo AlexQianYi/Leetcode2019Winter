@@ -108,3 +108,5 @@
 > [293. Flip Game (两个连续的+可以变成-)]
 > 
 > [136. Single Number](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/136.%20Single%20Number.md) 异或运算
+> 
+> [496. Next Greater Element I](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/496.%20Next%20Greater%20Element%20I.md) stack
