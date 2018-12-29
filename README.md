@@ -102,3 +102,5 @@
 > [953. Verifying an Alien Dictionary (排序的变种)]
 > 
 > [104. Maximum Depth of Binary Tree (DFS 两行的事)]
+> 
+> [566. Reshape the Matrix (先用一个一维的数组保存)]
