@@ -98,3 +98,7 @@
 >  [575. Distribute Candias](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/575.%20Distribute%20Candies.md) 其实很简单
 > 
 > [412. Fizz Buz (没啥好说的)]
+> 
+> [953. Verifying an Alien Dictionary (排序的变种)]
+> 
+> [104. Maximum Depth of Binary Tree (DFS 两行的事)]
