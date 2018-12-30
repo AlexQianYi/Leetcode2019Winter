@@ -112,3 +112,6 @@
 > [496. Next Greater Element I](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/496.%20Next%20Greater%20Element%20I.md) stack
 > 
 > [800 Similar RGB Color]
+> 
+> [429. N-ary Tree Level Order Traversal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) Java传地址，传给helper的result会改变
+> 
