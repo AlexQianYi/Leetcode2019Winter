@@ -122,3 +122,5 @@
 > [693. Binary Number with Alternating Bits (移位运算)]
 > 
 > [226. Invert Binary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/226.%20Invert%20Binary%20Tree.md) 翻转树的左子树和右子树
+> 
+> [824. Goat Latin (根据规则改变字符串 Java重复字符串的方法 r = new String(new char[n]).replace("\0", s); )]
