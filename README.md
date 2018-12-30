@@ -120,3 +120,5 @@
 > [762. Prime Number of Set Bits in Binary Representation](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.md) 计算一个整数二进制表示1的个数
 > 
 > [693. Binary Number with Alternating Bits (移位运算)]
+> 
+> [226. Invert Binary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) 翻转树的左子树和右子树
