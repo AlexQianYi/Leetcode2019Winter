@@ -121,4 +121,4 @@
 > 
 > [693. Binary Number with Alternating Bits (移位运算)]
 > 
-> [226. Invert Binary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) 翻转树的左子树和右子树
+> [226. Invert Binary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/226.%20Invert%20Binary%20Tree.md) 翻转树的左子树和右子树
