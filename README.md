@@ -116,3 +116,5 @@
 > [429. N-ary Tree Level Order Traversal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) Java传地址，传给helper的result会改变
 > 
 > [637. Average of Levels in Binary Tree (和上一道题类似 DFS）]
+> 
+> [762. Prime Number of Set Bits in Binary Representation](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.md) 计算一个整数二进制表示1的个数
