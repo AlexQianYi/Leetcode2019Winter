@@ -132,3 +132,5 @@
 > [243. Shortest Word Distance (求两个词在数组中的最短距离，更新两个保存两个string的index就行了)]
 > 
 > [292. Nim Game](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/292.%20Nim%20Game.md) mod 4
+> 
+> [577. Employee Bonus (Left join SQL)]
