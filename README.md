@@ -134,3 +134,5 @@
 > [292. Nim Game](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/292.%20Nim%20Game.md) mod 4
 > 
 > [577. Employee Bonus (Left join SQL)]
+> 
+> [892. Surface Area of 3D Shapes (个数*4+2，再处理相邻的情况)]
