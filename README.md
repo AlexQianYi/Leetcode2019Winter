@@ -136,3 +136,5 @@
 > [577. Employee Bonus (Left join SQL)]
 > 
 > [892. Surface Area of 3D Shapes (个数*4+2，再处理相邻的情况)]
+> 
+> [896. Monotonic Array (一个数列是不是全增或者全递减 On)]
