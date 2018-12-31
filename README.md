@@ -128,3 +128,5 @@
 > [917. Reverse Only Letters](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/917.%20Reverse%20Only%20Letters.md) 左右两个指针
 > 
 > [521. Longest Uncommon Subsequence I (傻逼题)]
+> 
+> [243. Shortest Word Distance (求两个词在数组中的最短距离，更新两个保存两个string的index就行了)]
