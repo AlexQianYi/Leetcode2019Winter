@@ -138,3 +138,5 @@
 > [892. Surface Area of 3D Shapes (个数*4+2，再处理相邻的情况)]
 > 
 > [896. Monotonic Array (一个数列是不是全增或者全递减 On)]
+> 
+> [784. Letter Case Permutation](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/292.%20Nim%20Game.md) DFS, BFS
