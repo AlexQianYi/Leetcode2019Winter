@@ -154,3 +154,5 @@
 > [748. Shortest Completing Word](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/748.%20Shortest%20Completing%20Word.md) 把每个字母用质数表示，然后找第一个能被licensePalte整除的
 > 
 > [607. Sales Person (SQL not in 取反)]
+> 
+> [690. Employee Importance (其实是DFS)]
