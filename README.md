@@ -146,3 +146,5 @@
 > [888. Fair Candy Swap](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/888.%20Fair%20Candy%20Swap.md) 找(sumA - sumB) /2
 > 
 > [485. Max Consecutive Ones (最长连续1的个数，没啥好说的)]
+> 
+> [258. Add Digits](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/258.%20Add%20Digits.md) 绝对想不到
