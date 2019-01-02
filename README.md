@@ -142,3 +142,5 @@
 > [784. Letter Case Permutation](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/784.%20Letter%20Case%20Permutation.md) DFS, BFS
 > 
 > [812. Largest Triangle Area (计算三角形的面积，大矩形减去三个三角形)]
+> 
+> [888. Fair Candy Swap](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/888.%20Fair%20Candy%20Swap.md) 找(sumA - sumB) /2
