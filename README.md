@@ -150,3 +150,5 @@
 > [258. Add Digits](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/258.%20Add%20Digits.md) 绝对想不到
 > 
 > [283. Move Zeros (指针指向第一个0的位置，然后替换就行了)]
+> 
+> [748. Shortest Completing Word](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/258.%20Add%20Digits.md) 把每个字母用质数表示，然后找第一个能被licensePalte整除的
