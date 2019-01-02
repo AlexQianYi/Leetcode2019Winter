@@ -139,4 +139,6 @@
 > 
 > [896. Monotonic Array (一个数列是不是全增或者全递减 On)]
 > 
-> [784. Letter Case Permutation](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/292.%20Nim%20Game.md) DFS, BFS
+> [784. Letter Case Permutation](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/784.%20Letter%20Case%20Permutation.md) DFS, BFS
+> 
+> [812. Largest Triangle Area (计算三角形的面积，大矩形减去三个三角形)]
