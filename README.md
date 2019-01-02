@@ -144,3 +144,5 @@
 > [812. Largest Triangle Area (计算三角形的面积，大矩形减去三个三角形)]
 > 
 > [888. Fair Candy Swap](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/888.%20Fair%20Candy%20Swap.md) 找(sumA - sumB) /2
+> 
+> [485. Max Consecutive Ones (最长连续1的个数，没啥好说的)]
