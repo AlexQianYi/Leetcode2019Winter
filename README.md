@@ -161,4 +161,10 @@
 > 
 > [389. Find the Difference (HashMap，或者可以用bit操作)]
 > 
+> [788. Rotated Digits](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/788.%20Rotated%20Digits.md) 不知道是不是动态规划。。。按位翻转
 > 
+> [448. Find All Numbers Disapperaed in an Array (找数组中缺失的数字 On)]
+> 
+> [706. Design HashMap (自己设计HashMap，用取模映射)]
+> 
+> [520. Detect Capital (不考虑第一个字母，要不然全是大写，要不然全是小写)]
