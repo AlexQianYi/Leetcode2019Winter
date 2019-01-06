@@ -180,3 +180,9 @@
 > [237. Delete Node in a Linked List (智障题)]
 > 
 > [13. Roman to Integer (用一个HashMap保存所有字母的数值，然后反向遍历，如果当前位大于之前的话，那么相加，否则相减)]
+> 
+> [252. Meeting Rooms](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/252.Meeting%20Rooms.md) 按照start或者end排序，然后在排序的过程中发现有重叠就跑出异常，O(n)。
+> 
+> [169. Majority Element (HashMap没啥好说的，但是这道题有一个关键是majority的元素一定是出现大于n/2的次数的，所以可以简化，遍历一遍，majority一定会出现大于n/2次数)]
+> 
+> 
