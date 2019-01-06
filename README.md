@@ -185,4 +185,6 @@
 > 
 > [169. Majority Element (HashMap没啥好说的，但是这道题有一个关键是majority的元素一定是出现大于n/2的次数的，所以可以简化，遍历一遍，majority一定会出现大于n/2次数)]
 > 
+> [606. Construct String from Binary Tree (从树形式变成String形式，递归构建)]
 > 
+> [171. Excel Sheet Column Number (没啥好说的)]
