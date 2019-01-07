@@ -196,3 +196,5 @@
 > [242. Valid Anagram (一个26长度的数组对应每个字母)]
 > 
 > [217. Contains Duplicate (HashMap没啥好说的)]
+> 
+> [538. Convert BST to Greater Tree (用一个全局变量保存大于当前node的sum，然后先访问树的右子树，处理根，再访问左子树)]
