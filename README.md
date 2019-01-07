@@ -188,3 +188,7 @@
 > [606. Construct String from Binary Tree (从树形式变成String形式，递归构建)]
 > 
 > [171. Excel Sheet Column Number (没啥好说的)]
+> 
+> [122. Best Time to Buy and Sell Stock II (prices[i]>prices[i-1] 就增加就行了)]
+> 
+> [860. Lemonade Change (记录5和10的数量，20的情况优先找10+5)]
