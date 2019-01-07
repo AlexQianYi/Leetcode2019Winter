@@ -198,3 +198,7 @@
 > [217. Contains Duplicate (HashMap没啥好说的)]
 > 
 > [538. Convert BST to Greater Tree (用一个全局变量保存大于当前node的sum，然后先访问树的右子树，处理根，再访问左子树)]
+> 
+> [783. Minimum Distance Between BST Nodes (关键在于中序遍历BST会生成一个升序的数组)]
+> 
+> [530. Minimum Absolute Difference in BST (和783基本一样)]
