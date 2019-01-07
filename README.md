@@ -194,3 +194,5 @@
 > [860. Lemonade Change (记录5和10的数量，20的情况优先找10+5)]
 > 
 > [242. Valid Anagram (一个26长度的数组对应每个字母)]
+> 
+> [217. Contains Duplicate (HashMap没啥好说的)]
