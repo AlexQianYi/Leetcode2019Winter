@@ -192,3 +192,5 @@
 > [122. Best Time to Buy and Sell Stock II (prices[i]>prices[i-1] 就增加就行了)]
 > 
 > [860. Lemonade Change (记录5和10的数量，20的情况优先找10+5)]
+> 
+> [242. Valid Anagram (一个26长度的数组对应每个字母)]
