@@ -214,3 +214,7 @@
 > [453. Minimum Moves to Equal Array Elements (n-1个数字都加1，其实也就是1个数字减一)]
 > 
 > [717. 1-bit and 2-bit Characters](https://github.com/AlexQianYi/Leetcode/blob/master/717%201-bit%20and%202-bit%20Characters.py) 不知道我之前怎么想出来的
+> 
+> [447. Number of Boomeranges](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/447.%20Number%20of%20Boomeranges.md) 
+> 
+> [167. Two Sum II - Input array is sorted (HashMap没啥好说的)]
