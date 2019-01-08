@@ -212,3 +212,5 @@
 > [796. Rotate String (A+A必然包含B)]
 > 
 > [453. Minimum Moves to Equal Array Elements (n-1个数字都加1，其实也就是1个数字减一)]
+> 
+> [717. 1-bit and 2-bit Characters](https://github.com/AlexQianYi/Leetcode/blob/master/717%201-bit%20and%202-bit%20Characters.py) 不知道我之前怎么想出来的
