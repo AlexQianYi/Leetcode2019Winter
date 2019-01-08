@@ -210,3 +210,5 @@
 > [383. Ransom Note (HashMap)]
 > 
 > [796. Rotate String (A+A必然包含B)]
+> 
+> [453. Minimum Moves to Equal Array Elements (n-1个数字都加1，其实也就是1个数字减一)]
