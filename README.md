@@ -218,3 +218,7 @@
 > [447. Number of Boomeranges](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/447.%20Number%20of%20Boomeranges.md) 
 > 
 > [167. Two Sum II - Input array is sorted (HashMap没啥好说的)]
+> 
+> [404. Sum of Left Leaves (用一个全局变量保存所有左叶子的和)]
+> 
+> [387. First Unique Character in a String (HashMap)]
