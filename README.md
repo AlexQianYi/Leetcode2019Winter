@@ -225,4 +225,4 @@
 > 
 > [108. Convert Sorted Array to Binary Search Tree (递归构建BST，Java没有切片，所以要用一个helper来传入每次的start和end)]
 > 
-> 
+> [697. Degree of an Array (最短sub seq和原seq degree相等，两个map，一个保存每个元素出现的次数，还有一个保存每个元素的开始和结尾)]
