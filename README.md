@@ -238,3 +238,5 @@
 > [175. Combine Two Tables (SQL join语句)]
 > 
 > [705. Design HashSet (比上次的设计HashMap的要简单一点，还是取模)]
+> 
+> [506. Relative Ranks (挺弱智的，就是排序，HashMap)]
