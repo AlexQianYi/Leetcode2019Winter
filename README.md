@@ -246,3 +246,5 @@
 > [409. Longest Palindrome (能够成对称string的字符的最大数目，也就是所有的偶数数量的字符相加，加上所有奇数字符数量-1，但是可以有一个单独多出来的作为对称轴。不需要按顺序)]
 > 
 > [268. Missing Number (异或操作就行了，速度还很快)]
+> 
+> [830. Positions of Large Groups (ArrayList的嵌套，没啥难的)]
