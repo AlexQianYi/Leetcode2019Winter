@@ -248,3 +248,5 @@
 > [268. Missing Number (异或操作就行了，速度还很快)]
 > 
 > [830. Positions of Large Groups (ArrayList的嵌套，没啥难的)]
+> 
+> [599. Minimum Index Sum of Two Lists (HashMap)]
