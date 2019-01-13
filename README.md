@@ -242,3 +242,5 @@
 > [506. Relative Ranks (挺弱智的，就是排序，HashMap)]
 > 
 > [661. Image Smoother (取一个点周围点的平均值)]
+> 
+> [409. Longest Palindrome (能够成对称string的字符的最大数目，也就是所有的偶数数量的字符相加，加上所有奇数字符数量-1，但是可以有一个单独多出来的作为对称轴)]
