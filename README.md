@@ -240,3 +240,5 @@
 > [705. Design HashSet (比上次的设计HashMap的要简单一点，还是取模)]
 > 
 > [506. Relative Ranks (挺弱智的，就是排序，HashMap)]
+> 
+> [661. Image Smoother (取一个点周围点的平均值)]
