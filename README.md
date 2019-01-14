@@ -265,4 +265,4 @@
 > 
 > [836. Rectangle Overlap (不难。。)]
 > 
-> [551. Student Attendence Record I](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/447.%20Number%20of%20Boomeranges.md) 
+> [551. Student Attendence Record I](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/551.%20Student%20Attendence%20Record%20I.md) 
