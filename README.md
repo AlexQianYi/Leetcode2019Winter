@@ -264,3 +264,5 @@
 > [746. Min Cost Climbing Stairs (动态规划，Dp[i] = min(Dp[i-1]+cost[i-1], Dp[i-2]+cost[i-2])]
 > 
 > [836. Rectangle Overlap (不难。。)]
+> 
+> [551. Student Attendence Record I](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/447.%20Number%20of%20Boomeranges.md) 
