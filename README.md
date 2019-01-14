@@ -256,3 +256,5 @@
 > [350. Intersectionn of Two Arrays II (HashMap)]
 > 
 > [543. Diameter of Binary Tree (寻找树中最长路径的长度，用一个全局变量保存结果，必然是经过一个点的左右最深的子树之和)]
+> 
+> [121. Best Time to Buy and Sell Stock (从左往右走一遍找到之前的最小的价格，然后再从右往左走一遍)]
