@@ -283,4 +283,6 @@
 > 
 > [504. Base 7 (7进制，除7取余就行了)]
 > 
-> [704. Binary Search](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) 标准的binary search
+> [704. Binary Search](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/704.%20Binary%20Search.md) 标准的binary search
+> 
+> [202. Happy Number (没啥好说的)]
