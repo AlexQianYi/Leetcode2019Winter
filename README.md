@@ -282,3 +282,5 @@
 > [458. Poor Pigs (一脸懵逼，看到这道题的解答)]
 > 
 > [504. Base 7 (7进制，除7取余就行了)]
+> 
+> [704. Binary Search](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) 标准的binary search
