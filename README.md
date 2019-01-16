@@ -296,3 +296,5 @@
 > [744. Find Smallest Letter Greater Than Target (没啥好说的)]
 > 
 > [27. Remove Element (移动target number，然后返回修改后的数组的长度，其实就是把target number放在数组的最后面)]
+> 
+> [671. Second Minimum Node In a Binary Tree (全局变量，一个保存最小，一个保存最大的)]
