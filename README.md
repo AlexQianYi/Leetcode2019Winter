@@ -288,3 +288,5 @@
 > [202. Happy Number (没啥好说的)]
 > 
 > [118. Pascal's Triangle](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/118.%20Pascal.md) 帕斯卡三角
+> 
+> [674. Longest Continuous Increaseing Subsequence (没啥好说的)]
