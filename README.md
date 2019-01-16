@@ -292,3 +292,7 @@
 > [674. Longest Continuous Increaseing Subsequence (没啥好说的)]
 > 
 > [720. Longest Word in Dictionary](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/720.%20Longest%20Word%20in%20Dictionary.md) Trie树
+> 
+> [744. Find Smallest Letter Greater Than Target (没啥好说的)]
+> 
+> [27. Remove Element (移动target number，然后返回修改后的数组的长度，其实就是把target number放在数组的最后面)]
