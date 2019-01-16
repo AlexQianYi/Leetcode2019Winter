@@ -270,3 +270,9 @@
 > [107. Binary Tree Level Order Traversal II](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) 同一层的节点都放在一个list里面
 > 
 > [21. Merge Two Sorted Lists (把两个sorted的list合并成一个，没啥难的)]
+> 
+> [541. Reverse String II (不难。。)]
+> 
+> [844. Backspace String Compare (stack)]
+> 
+> [925. Long Pressed Name (typed的字符可以比原来的多，但是不能小于，字符串处理，多注意细节就好了)]
