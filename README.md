@@ -291,4 +291,4 @@
 > 
 > [674. Longest Continuous Increaseing Subsequence (没啥好说的)]
 > 
-> [720. Longest Word in Dictionary](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/118.%20Pascal.md) Trie树
+> [720. Longest Word in Dictionary](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/720.%20Longest%20Word%20in%20Dictionary.md) Trie树
