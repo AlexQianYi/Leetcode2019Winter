@@ -286,3 +286,5 @@
 > [704. Binary Search](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/704.%20Binary%20Search.md) 标准的binary search
 > 
 > [202. Happy Number (没啥好说的)]
+> 
+> [118. Pascal's Triangle](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/118.%20Pascal.md) 帕斯卡三角
