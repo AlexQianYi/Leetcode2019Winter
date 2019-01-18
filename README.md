@@ -303,4 +303,4 @@
 > 
 > [703. Kth Largest Element in a Stream](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md) PirorityQueue
 > 
-> [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md) PirorityQueue
+> [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) 最小公共祖先
