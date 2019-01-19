@@ -320,3 +320,5 @@
 > [83. Remove Duplicates from Sorted List (链表操作，两个指针，一快一慢)] 
 > 
 > [405. Convert a Number to Hexadecimal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/405.%20Convert%20a%20Number%20to%20Hexadecimal.md) 把十进制转换成十六进制
+> 
+> [246. Strobogrammatic Numberl](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/246.%20Strobogrammatic%20Number.md) 数字翻转后和原数字是不是相等，python频繁字符串拼接还是join的效率高一点，只用一次性申请内存
