@@ -310,3 +310,11 @@
 > [270. Closest Binary Search Tree Value (DFS)] 
 > 
 > [594. Longest Harmonious Subsequence (挺简单的没啥好说的)] 
+> 
+> [53. Maximum Subarray (最大的连续子序列和， 基本思想就是，如果是个正数，直接加上就行，如果是个负数，和当前和为负，就舍弃，如果为正就加上)] 
+> 
+> [101. Symmetric Tree (看一棵树是不是镜像对称的，也是递归)] 
+> 
+> [183. Customers Who Never Order (SQL没啥好说的)] 
+> 
+> [83. Remove Duplicates from Sorted List (链表操作，两个指针，一快一慢)] 
