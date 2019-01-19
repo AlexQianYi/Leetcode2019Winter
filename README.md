@@ -303,7 +303,7 @@
 > 
 > [703. Kth Largest Element in a Stream](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md) PirorityQueue
 > 
-> [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) 最小公共祖先
+> [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) 最小公共祖先，因为是BST，所以考虑两个节点和root的大小关系就行了
 > 
 > [415. Add Strings (字符串相加)] 
 > 
@@ -318,3 +318,5 @@
 > [183. Customers Who Never Order (SQL没啥好说的)] 
 > 
 > [83. Remove Duplicates from Sorted List (链表操作，两个指针，一快一慢)] 
+> 
+> [405. Convert a Number to Hexadecimal](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/405.%20Convert%20a%20Number%20to%20Hexadecimal.md) 把十进制转换成十六进制
