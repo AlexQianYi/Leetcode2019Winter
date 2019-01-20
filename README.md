@@ -334,3 +334,5 @@
 > [232. Implement Queue using Stacks (用栈实现队列，要不然是在pop,peek的时候全部出栈拿到最下面的元素，要不然是在push的时候全部出栈翻转后再入栈，取决于不同的操作频率)] 
 > 
 > [119. Pascal's Triangle (返回帕斯卡三角中的特定一行，118的简化)] 
+> 
+> [326. Power of Three (3^20 = 1162261467 > int, return 116221467%n == 0)] 
