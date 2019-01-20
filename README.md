@@ -328,3 +328,7 @@
 > [437. Path Sum III](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/437.%20Path%20Sum%20III.md) 树中路径和为target的数量
 > 
 > [191. Number of 1 Bits (一个数字二进制中1的数量，移位操作就行了)] 
+> 
+> [758. Bold Words in String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/758.%20Bold%20Words%20in%20String.md) Trie树，学习一下
+> 
+> [232. Implement Queue using Stacks (用栈实现队列，要不然是在pop,peek的时候全部出栈拿到最下面的元素，要不然是在push的时候全部出栈翻转后再入栈，取决于不同的操作频率)] 
