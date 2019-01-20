@@ -340,3 +340,5 @@
 > [819. Most Common Word (HashMap就行了)] 
 > 
 > [9. Palindrome Number (看一个数从左往右和从右往左是不是一样的，转换成string就行了)] 
+> 
+> [572. Subtree of Another Tree (树访问，看一棵树是不是另一棵的子树，先找到root，然后看root剩下的部分和原树相不相等)] 
