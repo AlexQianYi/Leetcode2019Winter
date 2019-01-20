@@ -338,3 +338,5 @@
 > [326. Power of Three (3^20 = 1162261467 > int, return 116221467%n == 0)] 
 > 
 > [819. Most Common Word (HashMap就行了)] 
+> 
+> [9. Palindrome Number (看一个数从左往右和从右往左是不是一样的，转换成string就行了)] 
