@@ -324,3 +324,7 @@
 > [246. Strobogrammatic Numberl](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/246.%20Strobogrammatic%20Number.md) 数字翻转后和原数字是不是相等，python频繁字符串拼接还是join的效率高一点，只用一次性申请内存
 > 
 > [231. Power of Two (判断一个数是不是2的指数，移位操作就行了，二进制表示只能有一个1)] 
+> 
+> [437. Path Sum III](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/437.%20Path%20Sum%20III.md) 树中路径和为target的数量
+> 
+> [191. Number of 1 Bits (一个数字二进制中1的数量，移位操作就行了)] 
