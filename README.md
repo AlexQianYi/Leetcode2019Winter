@@ -358,3 +358,5 @@
 > [724. Find Pivot Index (返回第一个左右两边sum相等的索引，没啥好说的On)]
 > 
 > [849. Maximize Distance to Closest Person (找座位，找最大的空隙，从左遍历一遍从右遍历一遍)]
+> 
+> [110. Balanced Binary Tree (DFS)]
