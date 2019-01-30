@@ -345,4 +345,8 @@
 > 
 > [198. House Robber (不能取相邻的数字，然后求最大和，dp就行了)] 
 > 
-> [345. Reverse Vowels of a String](https://github.com/AlexQianYi/Leetcode2019Winter) Trie树，学习一下
+> [345. Reverse Vowels of a String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/345.%20Reverse%20Vowels%20of%20a%20String.md) 翻转一个string里面所有的元音，可以用两个指针，也可以用list.pop
+> 
+> [66. Plus One (就是用list形式表示的整数加一)]
+> 
+> 
