@@ -362,3 +362,7 @@
 > [110. Balanced Binary Tree (DFS)]
 > 
 > [345. Reverse Vowels of a String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/747.%20Largest%20Number%20At%20Twice%20of%20Others.md) 两个变量保存最大的和第二大的
+> 
+> [1. Two Sum (字典)]
+> 
+> [482. License Key Formatting (字符串操作，没啥好说的)]
