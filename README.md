@@ -360,3 +360,5 @@
 > [849. Maximize Distance to Closest Person (找座位，找最大的空隙，从左遍历一遍从右遍历一遍)]
 > 
 > [110. Balanced Binary Tree (DFS)]
+> 
+> [345. Reverse Vowels of a String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/747.%20Largest%20Number%20At%20Twice%20of%20Others.md) 两个变量保存最大的和第二大的
