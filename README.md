@@ -366,3 +366,5 @@
 > [1. Two Sum (字典)]
 > 
 > [482. License Key Formatting (字符串操作，没啥好说的)]
+> 
+> [734. Sentence Similarity](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/734.%20Sentence%20Similarity.md) 字典
