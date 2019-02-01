@@ -368,3 +368,9 @@
 > [482. License Key Formatting (字符串操作，没啥好说的)]
 > 
 > [734. Sentence Similarity](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/734.%20Sentence%20Similarity.md) 字典
+> 
+> [342. Power of Four (判断一个数是不是4的幂，移位操作就行了)]
+> 
+> [743. Network Delay Time (狄杰斯特拉)]
+> 
+> [558. Quad Tree Intersection (树访问的变种，但是题目对类的描述极其模糊)]
