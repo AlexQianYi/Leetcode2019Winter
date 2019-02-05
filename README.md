@@ -393,3 +393,10 @@
 > 
 > [225. Implement Stack using Queues (用队列实现栈，如果要pop，就全部出队列就好了)]
 > 
+> [67. Add Binary (把两个二进制的数字相加，没啥好说的)]
+> 
+> [441. Arranging Coins (数学问题)]
+> 
+> [172. Factorial Trailing Zeros (5的个数)]
+> 
+> [112. Path Sum (DFS真是写的比以前漂亮多了)]
