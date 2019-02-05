@@ -374,3 +374,22 @@
 > [743. Network Delay Time (狄杰斯特拉)]
 > 
 > [558. Quad Tree Intersection (树访问的变种，但是题目对类的描述极其模糊)]
+> 
+> [367. Valid Perfect Square (看一个数是不是平方数，但是python range循环对于大数会内存溢出，所以要用xrange)]
+> 
+> [26. Remove Duplicates from Sorted Array (把重复的数字都放到数组的末尾，两个指针)]
+> 
+> [38. Count and Say (字符串处理)]
+> 
+> [716. Max Stack (自己设计一个最大堆，能够实现stack的基本功能，还能返回stack中的最大值)]
+> 
+> [970. Powerful Integers (没啥好说的)]
+> 
+> [643. Maximum Average Subarray I (求长度为k的连续子串的最大平均值，因为子串长度是固定的，所以每次去掉头添加末尾就行了)]
+> 
+> [501. Find Mode in Binary Search Tree (DFS 一个全局的字典就行了)]
+> 
+> [374. Guess Number Higher or Lower (其实就是binary search)]
+> 
+> [225. Implement Stack using Queues (用队列实现栈，如果要pop，就全部出队列就好了)]
+> 
