@@ -404,3 +404,9 @@
 > [624. Maximum Distance in Arrays](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/624.%20Maximum%20Distance%20in%20Arrays.md) 
 > 
 > [443. String Compression](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/443.%20String%20Compression.md) 傻逼题
+> 
+> [434. Number of Segments in a String (split一下就行了)]
+> 
+> [205. Isomorphic Strings (判断两个字符串是不是一个形式，就是找有没有一组映射，但是要注意，是一对一的映射)]
+> 
+> [422. Valid Word Square (水平和垂直遍历矩阵)]
