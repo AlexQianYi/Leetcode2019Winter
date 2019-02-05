@@ -403,4 +403,4 @@
 > 
 > [624. Maximum Distance in Arrays](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/624.%20Maximum%20Distance%20in%20Arrays.md) 
 > 
-> 
+> [443. String Compression](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/443.%20String%20Compression.md) 傻逼题
