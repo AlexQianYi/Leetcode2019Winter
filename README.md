@@ -410,3 +410,7 @@
 > [205. Isomorphic Strings (判断两个字符串是不是一个形式，就是找有没有一组映射，但是要注意，是一对一的映射)]
 > 
 > [422. Valid Word Square (水平和垂直遍历矩阵)]
+> 
+> [303. Range Sum Query - Immutable](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/303.%20Range%20Sum%20Query%20-%20Immutable.md) 数组子序列和问题，用字典神医
+> 
+> [276. Paint Fence (上色问题，最多只能有连续两个柱子的颜色是一样的，动态规划，diff = (diff+same)*(k-1) same = diff)]
