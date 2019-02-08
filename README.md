@@ -430,3 +430,9 @@
 > [941. Valid Mountain Array](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/941.%20Valid%20Mountain%20Array.md) 数组前一半递增，后一半递减
 > 
 > [111. Minimum Depth of Binary Tree (DFS问题)]
+> 
+> [88. Merge Sorted Array (把两个已经排序好的数组合并成一个，直接修改第一个数组，可以把第一个数组中的所有的元素都先移到后半部分，然后在一个一个比较，用两个指针，差一点就100%可惜)]
+> 
+> [219. Contains Duplicate II (返回数组中是否有两个相同的元素索引距离小于等于k，字典)]
+> 
+> 
