@@ -414,3 +414,15 @@
 > [303. Range Sum Query - Immutable](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/303.%20Range%20Sum%20Query%20-%20Immutable.md) 数组子序列和问题，用字典神医
 > 
 > [276. Paint Fence (上色问题，最多只能有连续两个柱子的颜色是一样的，动态规划，diff = (diff+same)*(k-1) same = diff)]
+> 
+> [20. Valid Parentheses (没啥好说的)]
+> 
+> [141. Linked List Cycle (看看一个链表里面是否有环，可以用快慢指针，还可以用访问后修改)]
+> 
+> [155. Min Stack (实现一个堆，但是要能返回堆中最小的元素，在每次push的时候都在每个元素后面加上目前最下的元素)]
+> 
+> [234. Palindrome Linked List (判断一个链表是不是对称的，可以把整个链表翻转过来，也可以只翻转一半)]
+> 
+> [203. Remove Linked List Elements (把链表里面的所有的等于val的数字全都移除)]
+> 
+> [840. Magic Squares In Grid (弱智题)]
