@@ -426,3 +426,5 @@
 > [203. Remove Linked List Elements (把链表里面的所有的等于val的数字全都移除)]
 > 
 > [840. Magic Squares In Grid (弱智题)]
+> 
+> [941. Valid Mountain Array](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/303.%20Range%20Sum%20Query%20-%20Immutable.md) 数组前一半递增，后一半递减
