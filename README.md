@@ -435,4 +435,6 @@
 > 
 > [219. Contains Duplicate II (返回数组中是否有两个相同的元素索引距离小于等于k，字典)]
 > 
+> [290. Word Pattern](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/290.%20Word%20Pattern.md) 每个字符映射一个word，一一映射，字典君再显神威
+> 
 > 
