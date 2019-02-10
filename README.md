@@ -448,3 +448,10 @@
 > [687. Longest Univalue Path (返回树中最长的value相同的路径，还是DFS，不过就是要找通过当前节点的最长路径，和左右子树中的最长的路径)]
 > 
 > [949. Largest Time for Given Digits](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/949.%20Largest%20Time%20for%20Given%20Digits.md) 给四个数，看能组成合法的时间的最大值
+> 
+> 
+> ---------------------------------------------------------
+> 开始做medium了！！！！！！
+> ----------------------------------------
+> 
+> 
