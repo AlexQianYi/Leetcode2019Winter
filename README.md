@@ -449,9 +449,12 @@
 > 
 > [949. Largest Time for Given Digits](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/949.%20Largest%20Time%20for%20Given%20Digits.md) 给四个数，看能组成合法的时间的最大值
 > 
+> [14. Longest Common Prefix](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/14.%20Longest%20Common%20Prefix.md) 求一组字符串的最长公共前缀，先对所有string排序后，直接比较第一个和最后一个string就行了
 > 
-> ---------------------------------------------------------
-> 开始做medium了！！！！！！
-> ----------------------------------------
+> [633. Sum of Square Numbers (看一个非负数是否能够由两个数的平方和构成，循环就完事儿了)]
+> 
+> [58. Length of Last Word (返回以空格分割的string中最后一个单词的长度，split就完事儿了)]
+> 
+> [160. Intersection of Two Linked Lists (返回两个链表中相同的第一个node，字典处理)]
 > 
 > 
