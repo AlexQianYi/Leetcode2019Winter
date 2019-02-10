@@ -437,4 +437,14 @@
 > 
 > [290. Word Pattern](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/290.%20Word%20Pattern.md) 每个字符映射一个word，一一映射，字典君再显神威
 > 
+> [914. X of a Kind in a Deck of Cards](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md) 求是否有公因数
+> 
+> [604. Design Compressed String Iterator (输入是一个字符一个数字的形式，相当于要完成字符串的扩展，然后完成next, hasNext，两个方法，但是不能直接把字符串展开，内存会不够，所以要用字典保存每种字符的数量，然后有一个全局的index)]
+> 
+> [680. Valid Palindrome II (想复杂了，问一个string在最多能删除一个字符的情况下是不是对称的，两个指针，分别从两边到中间，如果碰到不一样的情况，就分别尝试移除，然后比较剩下的string是不是对称的就行了)]
+> 
+> [507. Perfect Number （一个数如果是Perfect Number，它所有因子之和等于它自己，要注意的是循环到sqrt(n)就行了，不然会超时)]
+> 
+> [687. Longest Univalue Path (返回树中最长的value相同的路径，还是DFS，不过就是要找通过当前节点的最长路径，和左右子树中的最长的路径)]
+> 
 > 
