@@ -457,4 +457,14 @@
 > 
 > [160. Intersection of Two Linked Lists (返回两个链表中相同的第一个node，字典处理)]
 > 
+> [984. String Without AAA or BBB](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/984.%20String%20Without%20AAA%20or%20BBB.md) 两种字符穿插，数学问题
 > 
+> [754. Reach a Number (直接看的解答，妙妙妙)]
+> 
+> [686. Repeated String Match (重复A的最小的次数使之包含B，如果没办法做到返回1。分成len(b)可以被len(a)整除的情况，最多是重复A  (len(B)/len(A))+1次，如果还找不到，直接返回-1)]
+> 
+> [28. Implement strStr() (没啥好说的。。)]
+> 
+> [475. Heaters (找座位的变种，还是左边遍历一遍，右边遍历一遍)]
+> 
+> [605. Can Place Flowers (种花，花不能种在相邻的地方，直接On，用一个flag，种完一个后，flag=false，如果碰到1，回溯一下就行了)]
