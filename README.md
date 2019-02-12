@@ -487,3 +487,10 @@
 > 
 > [532. K-diff Pairs in an Array (类似于Two sum，没啥好说的)]
 > 
+> [408. Valid Word Abbreviation](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/408.%20Valid%20Word%20Abbreviation.md) 字符串部分压缩
+> 
+> [278. First Bad Version (二分法)]
+> 
+> [189. Rotate Array (没啥好说的)]
+> 
+> 
