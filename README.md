@@ -468,3 +468,22 @@
 > [475. Heaters (找座位的变种，还是左边遍历一遍，右边遍历一遍)]
 > 
 > [605. Can Place Flowers (种花，花不能种在相邻的地方，直接On，用一个flag，种完一个后，flag=false，如果碰到1，回溯一下就行了)]
+> 
+> [69. Sqrt(x) (求一个数的平方根，可以二分)]
+> 
+> [874. Walking Robot Simulation (机器人行走，可能会遇到障碍，把障碍以tuple的形式放到dic就行了，要返回的是机器人距离远点的最大的欧拉距离的平方)]
+> 
+> [196. Delete Duplicate Emails (SQL删除重复的email)]
+> 
+> [400. Nth Digit (找数字，1-9有9个，10-99有180个，。。。。)]
+> 
+> [125. Valid Palidrome (没啥好说的)]
+> 
+> [190. Reverse Bits (翻转一个数的二进制形式)]
+> 
+> [581. Shortest Unsorted Continuous Subarray (说实话，没看懂)]
+> 
+> [170. Two Sum III - Data structure design (没啥好说的)]
+> 
+> [532. K-diff Pairs in an Array (类似于Two sum，没啥好说的)]
+> 
