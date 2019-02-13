@@ -493,4 +493,22 @@
 > 
 > [189. Rotate Array (没啥好说的)]
 > 
+> [414. Third Maximum Number](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/414.%20Third%20Maximum%20Number.md) 返回一个数组中的第三大的数字，三个指针就行了
+> 
+> [168. Excel Sheet Column Title (26*int(c) + .... 没啥好说的)]
+> 
+> [204. Count Primes (计算有多少个质数，没啥好说的)]
+> 
+> [859. Buddy Strings (输入两个字符串，看是不是交换A中的两个字符它们能相等，必须要交换，要注意的是如果两个字符串相等的话，可以交换两个相同的字符，这样还是满足要求的)]
+> 
+> [7. Reverse Integer (翻转一个整数，没啥好说的)]
+> 
+> [707. Design Linked List (就是链表操作，其实用list也行。。)]
+> 
+> --------------------------------------------------------------------------------------------------------
+> 开始做medimum 啦！！！！！！！！！！！
+> 
+> [807. Max Increase yo Keep City Skyline (横着遍历一遍矩阵，竖着遍历一遍矩阵，然后看看每个位置能扩展多少就行了)]
+> 
+> 
 > 
