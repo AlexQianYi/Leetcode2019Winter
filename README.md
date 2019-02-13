@@ -510,5 +510,12 @@
 > 
 > [807. Max Increase yo Keep City Skyline (横着遍历一遍矩阵，竖着遍历一遍矩阵，然后看看每个位置能扩展多少就行了)]
 > 
+>  [938. Range Sum of BST](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/938.%20Range%20Sum%20of%20BST.md) 还是DFS
+> 
+> [701. Insert into a Binary Search Tree (DFS)]
+> 
+> [544. Output Contest Matches (比赛匹配，最后返回最后一次匹配结果，字符串处理)]
+> 
+> [654. Maximum Binary Tree (递归构建binary tree)]
 > 
 > 
