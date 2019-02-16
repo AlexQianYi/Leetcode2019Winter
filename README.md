@@ -523,3 +523,5 @@
 > [890. Find and Replace Pattern](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/890.%20Find%20and%20Replace%20Pattern%2Cmd.md) 模式匹配
 > 
 > [814. Binary Tree Pruning](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/814.%20Binary%20Tree%20Pruning.md) DFS
+> 
+> [921. Minimum Add to Make Paretheses Valid](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md) 括号匹配问题
