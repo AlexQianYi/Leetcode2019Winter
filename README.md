@@ -527,3 +527,5 @@
 > [921. Minimum Add to Make Paretheses Valid](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md) 括号匹配问题
 > 
 > [797. All Paths From Source to Target](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/797.%20All%20Paths%20From%20Source%20to%20Target.md) 返回路径，但是涉及到软拷贝
+> 
+> [894. All Possible Full Binary Trees](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/894.%20All%20Possible%20Full%20Binary%20Trees.md) 完全二叉树
