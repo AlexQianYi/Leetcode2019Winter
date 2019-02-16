@@ -521,3 +521,5 @@
 > [950. Reveal Cards In Increasing Order](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/950.%20Reveal%20Cards%20In%20Increasing%20Order.md) 返回按照要求排序的卡片
 > 
 > [890. Find and Replace Pattern](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/890.%20Find%20and%20Replace%20Pattern%2Cmd.md) 模式匹配
+> 
+> [814. Binary Tree Pruning](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/814.%20Binary%20Tree%20Pruning.md) DFS
