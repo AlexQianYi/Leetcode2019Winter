@@ -537,3 +537,5 @@
 > [979. Distribute Coins in Binary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/979.%20Distribute%20Coins%20in%20Binary%20Tree.md) 还是DFS问题，重新分配树中的value就行了
 > 
 > [419. Battleships in a Board](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/419.%20Battleships%20in%20a%20Board.md) 遍历一遍矩阵，返回所有船的数量
+> 
+> [951. Flip Equivalent Binary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/951.%20Flip%20Equivalent%20Binary%20Trees.md) 翻转左右子树之后看两棵树是否相等
