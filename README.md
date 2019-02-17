@@ -531,3 +531,5 @@
 > [894. All Possible Full Binary Trees](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/894.%20All%20Possible%20Full%20Binary%20Trees.md) 完全二叉树
 > 
 > [861. Score After Flipping Matrix](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/861.%20Score%20After%20Flipping%20Matrix.md) 先行遍历，再列遍历
+> 
+> [763. Partition Labels](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/763.%20Partition%20Labels.md) 拆分一个字符串，使每个字符只在一个部分出现，就是merge interval的变种
