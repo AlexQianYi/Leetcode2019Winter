@@ -541,3 +541,7 @@
 > [951. Flip Equivalent Binary Tree](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/951.%20Flip%20Equivalent%20Binary%20Trees.md) 翻转左右子树之后看两棵树是否相等
 > 
 > [537. Complex Number Multiplication](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/951.%20Flip%20Equivalent%20Binary%20Trees.md) 虚数相乘
+> 
+> [338. Counting Bits (没啥好说的，看二进制表示有多少个1)
+> 
+> 
