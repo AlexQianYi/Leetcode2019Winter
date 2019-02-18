@@ -549,3 +549,5 @@
 > [750. Number of Corner Rectangles](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/750.%20Number%20of%20Corner%20Rectangles.md) 找01矩阵里面corner rectangles的数量
 > 
 > [885. Spiral Matrix III](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/885.%20Spiral%20Matrix%20III.md) 以时钟的顺序访问一个矩阵
+> 
+> [969. Pancake Sorting](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/969.%20Pancake%20Sorting.md) 通过翻转数组前k个元素使得数组变得有序
