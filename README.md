@@ -553,3 +553,5 @@
 > [969. Pancake Sorting](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/969.%20Pancake%20Sorting.md) 通过翻转数组前k个元素使得数组变得有序
 > 
 > [723. Candy Crush](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/723.%20Candy%20Crush.md) 实现俄罗斯方块的消除
+> 
+> [791. Custom Sort String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/791.%20Custom%20Sort%20String.md) 根据一个已经排序好的string，重新排序另一个string。
