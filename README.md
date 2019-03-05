@@ -555,3 +555,11 @@
 > [723. Candy Crush](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/723.%20Candy%20Crush.md) 实现俄罗斯方块的消除
 > 
 > [791. Custom Sort String](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/791.%20Custom%20Sort%20String.md) 根据一个已经排序好的string，重新排序另一个string。
+> 
+> [280. Wiggle Sort](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/280.%20Wiggle%20Sort.md) 返回一个波浪型的数组，sort之后，两两交换就行了
+> 
+> [986. Interval List Intersections (给两个List，分别包含一组区间，然后要求返回两组区间的交集，合并两个list之后按start排序，meeting room)]
+> 
+> [877. Stone Game (两个人轮流从数组拿石头，只能从两端拿，直接每次取max就行了)]
+> 
+> 
