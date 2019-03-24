@@ -562,4 +562,30 @@
 > 
 > [877. Stone Game (两个人轮流从数组拿石头，只能从两端拿，直接每次取max就行了)]
 > 
+> [370. Range Addition](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/370.%20Range%20Addition.md) 一系列的操作修改数组，用两个字典分别保存修改的起始
+> 
+> [442. Find All Duplicates in an Array (找到数组中所有出现过两次的元素，按顺序遍历，nums[nums[i]-1] *= -1就行了，下次如果再碰到是负数的话就放到结果中就行了)]
+> 
+> [841. Keys and Rooms (给一个二维数组，每一维代表该房间有的钥匙，看能不能进所有的房间，路径合并问题)]
+> 
+> [739. Daliy Temperatures ()]
+> 
+> [406. Queue Reconstruction by Height (输入一个数组，每个元素为(h, k)，h代表每个人的高度，k代表每个人前面有k个人的身高大于等于他，重新排列数组使得满足要求。直接根据身高降序，k升序排列，然后insert数组就行了)]
+> 
+> [889. (Construct Binary Tree from Preorder and Postorder Traversal (已知树的先序遍历和后序遍历，返回树的构建，根是post[-1]和pre[0]，右子树的根是post[-2]，左子树的根是pre[1]，就递归构建就行了)]
+> 
+> [362. Design Hit Counter (返回过去5min內hit的次数)]
+> 
+> [513. FInd Bottom Left Tree Value (返回树中最底层的最左边的node，保存树的每层的节点就行了)]
+> 
+> [931. Minimum Falling Path Sum (一个二维数组，从第一行开始，每次向下一层，每步列差不能超过1，最终到达最下面一层，求最小的路径和，每次更新每一行就行了)]
+> 
+> [946. Validate Stack Sequences (给了两个序列，一个是push，还一个是pop，看是否符合是stack的两个push和pop操作序列。直接用个stack模拟一下就行了)]
+> 
+> [515. Find Largest Value in Each Tree Row (DFS)]
+> 
+> [531. Lonely Pixel I (找出lonely B的数量，两个字典)]
+> 
+> [540. Single Element in a Sorted Array (binary search)]
+> 
 > 
