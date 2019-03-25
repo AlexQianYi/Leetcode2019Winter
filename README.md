@@ -595,3 +595,5 @@
 > [695. Max Area of Island (返回二维矩阵中最大的连续1面积，DFS)]
 > 
 > [647. Palindromic Substrings](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/647.%20Palindromic%20Substrings.md) 返回一个string中有多少个对称的子串，dp解决
+> 
+> [582. Kill Process (输入两个list，一个代表所有的进程的名字，另一个代表所有父进程，图合并问题，用dic存图)]
