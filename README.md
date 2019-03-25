@@ -588,4 +588,10 @@
 > 
 > [540. Single Element in a Sorted Array (binary search)]
 > 
+> [484. Range Addition](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/484.%20Find%20Permutation.md) 贪心算法，生成规则要注意
 > 
+>[364. Nested List Weight Sum II (嵌套的List带权重的求和，不过是反向的，叶子权重是1，所以要先得到深度)]
+>
+>[695. Max Area of Island (返回二维矩阵中最大的连续1面积，DFS)]
+>
+>
