@@ -588,10 +588,10 @@
 > 
 > [540. Single Element in a Sorted Array (binary search)]
 > 
-> [484. Range Addition](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/484.%20Find%20Permutation.md) 贪心算法，生成规则要注意
+> [484. Range Addition](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/484.%20Find%20Permutation.md) 一系列的操作修改数组，用两个字典分别保存修改的起始
 > 
->[364. Nested List Weight Sum II (嵌套的List带权重的求和，不过是反向的，叶子权重是1，所以要先得到深度)]
->
->[695. Max Area of Island (返回二维矩阵中最大的连续1面积，DFS)]
->
->
+> [364. Nested List Weight Sum II (嵌套的List带权重求和，不过时反向的，叶子权重是1，所以要先得到深度)]
+> 
+> [695. Max Area of Island (返回二维矩阵中最大的连续1面积，DFS)]
+> 
+> [647. Palindromic Substrings](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/647.%20Palindromic%20Substrings.md) 返回一个string中有多少个对称的子串，dp解决
