@@ -614,4 +614,4 @@
 > 
 > [553. Optimal Division (有点蠢的一道题，输入了一个数组都是int，然后两两数之间加上了除号，可以加括号，问怎么加得到的结果最大，其实就是num[0]/num[1]*num[2]......就是最大的了)]
 > 
-> 
+> [1006. Clumsy Factorial](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/1006.%20Clumsy%20Factorial.md) 阶乘的变种，没啥好说的
