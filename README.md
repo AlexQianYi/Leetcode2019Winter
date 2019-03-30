@@ -597,3 +597,19 @@
 > [647. Palindromic Substrings](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/647.%20Palindromic%20Substrings.md) 返回一个string中有多少个对称的子串，dp解决
 > 
 > [582. Kill Process (输入两个list，一个代表所有的进程的名字，另一个代表所有父进程，图合并问题，用dic存图)]
+> 
+> [369. Plus One Linked List (用一个链表代表一个数字从高到地位，然后对这个链表加一，返回结果，翻转后加1，然后翻转回来)]
+> 
+> [311. Sparse Matrix Multiplication (稀疏矩阵相乘，可以先找到非0行列来进行优化)]
+> 
+> [94. Binary Tree Inorder Traversal (树的中序遍历，用个全局变量就行了)]
+> 
+> [281. ZigZag Iterator (从k个数组中轮流取出第一个元素)]
+> 
+> [413. Arithmetic Slices （返回一组数中能组成等差数列的组数，至少三个数才能组成一个等差数列，直接求每次连续最长的等差数列的长度就行了)]
+> 
+> [856. Score of Parentheses (根据括号的深度来计算总括号字符串的分数，还是用stack。每次碰到右括号进行一次计算)]
+> 
+> [451. Sort Characters By Frequency (根据字符在字符串中出现的次数来重新排序，可以用bucket，也可以用priorityQueue)]
+> 
+> 
