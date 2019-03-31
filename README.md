@@ -631,3 +631,7 @@
 >[508. Most Frequent Subtree Sum (DFS + 字典)]
 >
 >[347. Top K Frequency Elements (返回数组中出现top k次的元素，但是需要的是O(n)的复杂度，和451类似，用一个bucket来保存次数)]
+>
+>[947. Most Stones Removed with Same Row or Column](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.md) 变种的island number问题
+>
+>【
