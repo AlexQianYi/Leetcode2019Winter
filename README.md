@@ -615,3 +615,19 @@
 > [553. Optimal Division (有点蠢的一道题，输入了一个数组都是int，然后两两数之间加上了除号，可以加括号，问怎么加得到的结果最大，其实就是num[0]/num[1]*num[2]......就是最大的了)]
 > 
 > [1006. Clumsy Factorial](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/1006.%20Clumsy%20Factorial.md) 阶乘的变种，没啥好说的
+> 
+> [789. Escape The Ghosts](https://github.com/AlexQianYi/Leetcode2019Winter/blob/master/789.%20Escape%20The%20Ghosts.md) 简化的吃豆豆问题，计算哈密尔顿距离
+> 
+>[609. Find Duplicate File in System (字符串操作，没啥好说的)]
+>
+>[238. Product of Array Except Self (返回一个list，每个元素的乘积除了每个元素本身，就是错一位从前往后，然后再从后往前)]
+>
+>[817. Linked List Components （字典，很简单)]
+>
+>[919. Complete Binary Tree Inserter (构建一个完全二叉树，。。。。。。。。。。。。。。。。。。。。。不是很明白)]
+>
+>[46. Permutations (返回排列组合，DFS)]
+>
+>[508. Most Frequent Subtree Sum (DFS + 字典)]
+>
+>[347. Top K Frequency Elements (返回数组中出现top k次的元素，但是需要的是O(n)的复杂度，和451类似，用一个bucket来保存次数)]
